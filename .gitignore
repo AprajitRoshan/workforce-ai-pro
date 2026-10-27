@@ -1,0 +1,9 @@
+backend/.venv/
+backend/.env
+backend/workforce.db*
+backend/storage/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.claude/
